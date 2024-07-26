@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ATWedding.WebApp",
   "resources": {
-    "hash": "sha256-gND7bCsZerv2BWwWFR/0YITOIKB+2b5eNsbIJBNjE9o=",
+    "hash": "sha256-jOizkm/d7EN5E3tsD+ynsu73cXxcc6e8fG4d0nq1/zs=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.mo412m5nsr.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "ATWedding.Shared.wasm": "sha256-Z+sxAJG2g+tQOoYUwfojluQHCdjMvZiZHCnY2VXg6TE=",
-      "ATWedding.WebApp.wasm": "sha256-NQtWEfZKSSTTO2RuV9oXqH3Olq5MVCcnbx2+lP2HHtI=",
+      "ATWedding.Shared.wasm": "sha256-ftkAtoKfv9VdpmCGNTROtTHBvvMYBcAjZHLfzZeg+bU=",
+      "ATWedding.WebApp.wasm": "sha256-G7o1OS4v8/LF7r+QoNPW3ntaDn4j5xlkeDRYaHK5AAk=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-NZsvLq1rFdJuXeJz+NJejVvXvxaXu/K4aTrExHJ7n/g=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-NvgdH2gLFhlw3c/lExKNxJ5lXyx7UjjcQd5usPCy2VU=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-73B3QDsxQ3S4htwPpMPzagqO7dqRU9/yS1cDg9ya1es=",
